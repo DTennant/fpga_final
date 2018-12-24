@@ -1,5 +1,4 @@
 /*
-	Author: Aniket Badhan
 	Description: Addition stage 5 of Convolution layer 2, convolution of convolved image and convolved pattern
 */
 

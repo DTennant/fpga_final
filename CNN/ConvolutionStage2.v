@@ -1,5 +1,4 @@
 /*
-	Author: Aniket Badhan
 	Description: Multiplication stage of Convolution Layer 2, convolution of outputs at stage 1
 */
 

@@ -1,5 +1,4 @@
 /*
-	Author: Aniket Badhan
 	Description: Addition stage 3 of Convolution with Laplacian filter
 */
 

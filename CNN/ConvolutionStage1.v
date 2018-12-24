@@ -1,5 +1,4 @@
 /*
-	Author: Aniket Badhan
 	Description: Multiplication stage of the convolution of image/pattern with Laplacian filter
 */
 

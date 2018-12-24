@@ -1,6 +1,5 @@
 /*
 	
-	Author: Aniket Badhan
 	Description: Top Module, combining all the layers of the CNN, 
 	Convolution Stage 1, Convolution Stage 2 and Max Pooling Layer
 

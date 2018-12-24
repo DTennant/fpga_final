@@ -1,5 +1,4 @@
 /*
-	Author: Aniket Badhan
 	Description: Max Pooling implementation (to find out the max of the 4 inputs of 2X2 sub matrix	)
 */
 
